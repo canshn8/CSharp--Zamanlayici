@@ -1,0 +1,11 @@
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\Hatirlatici.exe.config
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\Hatirlatici.exe
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\Hatirlatici.pdb
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\Hatirlatici.csproj.AssemblyReference.cache
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\_5_dakika_hatirlatici.Form1.resources
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\_5_dakika_hatirlatici.Form2.resources
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\_Hatirlatici.Properties.Resources.resources
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\Hatirlatici.csproj.GenerateResource.cache
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\Hatirlatici.csproj.CoreCompileInputs.cache
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\Hatirlatici.exe
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\Hatirlatici.pdb

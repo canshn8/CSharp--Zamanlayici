@@ -1,0 +1,21 @@
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\5 dakika hatirlatici.exe.config
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\5 dakika hatirlatici.exe
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\5 dakika hatirlatici.pdb
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.csproj.AssemblyReference.cache
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\_5_dakika_hatirlatici.Form1.resources
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\_5_dakika_hatirlatici.Properties.Resources.resources
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.csproj.GenerateResource.cache
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.csproj.CoreCompileInputs.cache
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.exe
+C:\Users\Ghaith\source\repos\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.pdb
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\5 dakika hatirlatici.exe.config
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\5 dakika hatirlatici.exe
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\bin\Debug\5 dakika hatirlatici.pdb
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.csproj.AssemblyReference.cache
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\_5_dakika_hatirlatici.Form1.resources
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\_5_dakika_hatirlatici.Properties.Resources.resources
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.csproj.GenerateResource.cache
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.csproj.CoreCompileInputs.cache
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.exe
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\5 dakika hatirlatici.pdb
+D:\c# projeleri\5 dakika hatirlatici\5 dakika hatirlatici\obj\Debug\_5_dakika_hatirlatici.Form2.resources
